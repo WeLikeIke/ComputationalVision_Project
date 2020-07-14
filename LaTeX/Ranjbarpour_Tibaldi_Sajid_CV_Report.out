@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Implementation}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{The Dataset}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{The Models}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{The top layers}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{First Results}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Classification}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Exploring Intermediate Features}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Evaluating Intermediate Features}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Silhouette Score definition}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Silhouette Score Results}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Working on the pre-trained models}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{Fine Tuning}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.2}{Results}{section.5}% 14
+\BOOKMARK [1][-]{section.6}{Doing more with Silhouette Score}{}% 15
+\BOOKMARK [1][-]{section.7}{Final considerations}{}% 16
